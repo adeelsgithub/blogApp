@@ -1,0 +1,40 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p{
+    padding: 0;
+    margin: 0;
+}
+
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:visited{
+    color: none;
+}
+header{
+    padding: 30px 10px;
+    
+}
+header h1{
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+nav{
+    float : right;
+}
+
+nav ul {
+    margin: 5px;
+}
+
+nav ul li {
+    display: inline;
+    padding-left: 10px;
+}
