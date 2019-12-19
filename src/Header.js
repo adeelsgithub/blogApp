@@ -7,7 +7,7 @@ class Header extends React.Component{
         return (
             <React.Fragment>
                 <header>
-                    <h1>Logo</h1>
+                    <h1>BLOG</h1>
                     <nav>
                         <ul>
                             <li> <a href="#">Home</a> </li>

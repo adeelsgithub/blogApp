@@ -13,6 +13,7 @@ p{
 a{
     text-decoration: none;
     text-transform: uppercase;
+    color : black;
 }
 a:visited{
     color: none;
